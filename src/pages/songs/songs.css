@@ -1,0 +1,7 @@
+@media (max-width: 600px) {
+    #root > div > div > div.box.rounded-lg.my-4.mx-4 > pre {
+      overflow-x: scroll;
+      white-space: pre-wrap;
+      padding: 5px;
+    }
+  }

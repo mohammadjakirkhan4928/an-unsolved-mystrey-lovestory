@@ -1,0 +1,6 @@
+@media only screen and (max-width: 600px) {
+    #root > div > div > div.grid.max-w-screen-xl.my-6.grid-cols-1.gap-8.px-8.py-16.mx-auto.rounded-lg.md\\:grid-cols-2.md\\:px-12.lg\\:px-16.xl\\:px-32.bg-gray-800.text-gray-100 {
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+  }

@@ -1,0 +1,5 @@
+@media only screen and (max-width: 600px) {
+    #root > div > div > div.flex.items-center.-mx-4.overflow-x-auto.overflow-y-hidden.sm\:justify-center.flex-nowrap.dark\:bg-gray-800.dark\:text-gray-100 {
+      justify-content: center;
+    }
+  }

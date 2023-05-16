@@ -1,0 +1,15 @@
+#root > div > div > div.bg-info.rounded-3xl.m-4.flex.flex-col.justify-center.items-center.min-h-screen > div.rounded-doc > div > div > canvas {
+  border: 4px solid black;
+  max-width: 100%;
+  height: auto;
+  border-radius: 20px;
+  margin-top: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+@media (max-width: 600px) {
+  .rounded-doc {
+    max-width: 100%;
+    width: auto;
+  }
+}
+
