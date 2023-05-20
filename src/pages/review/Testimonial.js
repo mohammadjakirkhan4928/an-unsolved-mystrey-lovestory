@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./review.css";
 
 const Testimonial = ({ name, message }) => {
   const words = message.split(/\s+/);
